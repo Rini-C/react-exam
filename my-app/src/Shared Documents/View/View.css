@@ -1,0 +1,38 @@
+.view {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  padding: 1rem 5rem;
+}
+.view a {
+  margin: 1rem 0;
+}
+.view a button {
+  padding: 0.3rem 1.5rem;
+  border: 0.5px solid rgb(74, 145, 225);
+  border-radius: 5px;
+  background-color: rgb(74, 145, 225);
+  color: rgb(243, 244, 247);
+}
+.view table {
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(249, 246, 246);
+}
+.view table thead {
+  background-color: rgb(124, 185, 229);
+}
+.view table thead th {
+  color: rgb(12, 11, 11);
+  height: 2rem;
+  font-size: small;
+}
+.view table tbody tr td {
+  text-align: center;
+  padding: 0.3rem 0;
+  color: rgb(14, 13, 13);
+  background-color: rgb(232, 230, 230);
+}
+.view table tbody tr td a {
+  color: rgb(134, 132, 132);
+}/*# sourceMappingURL=View.css.map */
